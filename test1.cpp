@@ -46,3 +46,37 @@
 //	};
 //	return 0;
 //}
+//int main()
+//{
+//	int a = 0;
+//	int b = ~a;
+//	printf("%d\n", b);
+//	printf("%d\n", sizeof(a));
+//	return 0;
+//}
+//int main()
+//{
+//	printf("hello world");
+//	return 0;
+//}
+//int main()
+//{
+//	int a = 1;
+//	int b = 1;
+//	int max = 0;
+//	if (a >= b)
+//		max = a;
+//	else
+//		max = b;
+//	printf("max=%d", max);
+//	return 0;
+//}
+//int main()
+//{
+//	int a = 1;
+//	int b = 2;
+//	int max = 0;
+//	max = (a > b ? a : b);
+//	printf("max=%d", max);
+//	return 0;
+//}
